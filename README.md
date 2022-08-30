@@ -1,2 +1,2 @@
-# ciclo2
-Ejercicios desarrollados en Java del ciclo 2
+# Ciclo 2 de MisiónTIC 2022
+Ejercicios desarrollados en Java.
